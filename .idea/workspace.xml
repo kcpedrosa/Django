@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b92c02-e495-4885-9436-aea33662e0ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gestaoClientes/clientes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gestaoClientes/clientes/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaoClientes" beforeDir="false" afterPath="$PROJECT_DIR$/gestaoClientes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaoClientes/gestaoClientes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gestaoClientes/gestaoClientes/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -1,1 +1,1 @@
-#Django project/ done according to udemy course(Django and deploy on Heroku/ https://app-gestao-clientes-django.herokuapp.com/).
+#Django project/ done according to udemy course " Desenvolva uma aplicação com Django 2.0 e deploy no Heroku"(Django application and deploy on Heroku)/ https://app-gestao-clientes-django.herokuapp.com/).
